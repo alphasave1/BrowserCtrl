@@ -58,7 +58,7 @@ def new_onClickAction(self, typeID, entityID, action):
     if action == 'action_1':
         g_browserWindow.browser('http://www.wgmods.net', 'WGMODS', 'Pack', [990, 550])
     elif action == 'action_2':
-        g_browserWindow.browser('http://koreanrandom.com', 'Mod-Dev', 'Pack', [990, 550])
+        g_browserWindow.browser('http://koreanrandom.com', 'Mod-Dev', 'Pack_', [990, 550])
     else:
         old_onClickAction(self, typeID, entityID, action)
 
