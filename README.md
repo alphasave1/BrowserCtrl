@@ -2,7 +2,7 @@
 <b>内部にBigWorldで用意されているブラウザにWebページを表示するプログラム</b>  
 Button 1にhttp://www.wgmods.net を、  
 Button 2にhttp://koreanrandom.com を、  
-Button 3にhttp://www.google.co.jp/ を表示するようにしてあります  
+Button 3にhttp://www.google.co.jp を表示するようにしてあります  
 
 <b>最新版はmod_showbrowser_ver_2.py です</b>  
 
