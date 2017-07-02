@@ -5,6 +5,7 @@ Button 2にhttp://koreanrandom.com を、
 Button 3にhttp://www.google.co.jp を表示するようにしてあります  
 
 <b>最新版はmod_showbrowser_ver_2.py です</b>  
+messages内で使えるHTMLテンプレートはscripts/client/messenger/doc_loaders/html_templates.py にあります  
 
 現時点での問題点・改善点（？）  
 - Button 1でのブラウザ表示と、Button 2でのブラウザ表示を統一しているためブラウザウィンドウ２個を表示することができない  
